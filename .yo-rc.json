@@ -1,0 +1,8 @@
+{
+  "@wcfactory/generator-wcfactory": {
+    "promptValues": {
+      "orgNpm": "Michael Collins",
+      "orgGit": "open-curriculum"
+    }
+  }
+}
